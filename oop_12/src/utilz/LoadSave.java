@@ -22,6 +22,10 @@ public class LoadSave {
 
     public static final String QS_menu = "QS_menu.png";
     public static final String QS_BUTTON = "QSimg.png";
+    public static final String QS1_img = "ENTER.png";
+    public static final String QS_ENTER= "ENTER_BUTTON.png";
+    
+    
     public static final String LEVEL_ATLAS = "outside_sprites.png";
     public static final String MENU_BUTTONS = "button_atlas.png";
     public static final String MENU_BACKGROUND = "menu_background.png";
